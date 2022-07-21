@@ -22,10 +22,3 @@ Change directory to the main project folder 'CF_Scraper' and run the following c
 * Ajax used to asynchronously call the API views created using Django-Rest Framework
 * beautifulsoup4 for scraping codeforces.com
 * chart.js for generating the graphs/charts
-
-## Future Work:
-
-* Add more data regarding problems and topics
-* Add a feature that lets user get data in JSON format using RESTful API calls to the website
-* Use the submissions data to predict topics that need more work
-* Add data regarding other platforms to further improve our predictions
